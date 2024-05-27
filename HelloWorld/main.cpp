@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-	cout << "hello lua，cpp，hello" << endl;
+	cout << "hello git" << endl;
 }
